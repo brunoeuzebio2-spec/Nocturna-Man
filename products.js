@@ -95,4 +95,41 @@ const PRODUTOS = [
     emoji: "👕",
     categoria: "Camisetas"
   },
+
+  // ---- adicionados depois ----
+  {
+    nome: "Moletom Canguru Premium Estampado BMW Carro Esportivo — Blusa de Frio Confortável, Inverno",
+    preco: "R$45,65 - R$62,25",
+    link: "https://s.shopee.com.br/7VGJiT4wkC",
+    emoji: "🧥",
+    categoria: "Casacos e Corta-vento"
+  },
+  {
+    nome: "Kit 2 Blusa Moletom Masculino New York Gola Redonda — Algodão Unissex, Casaco",
+    preco: "R$79,89 - R$89,90",
+    link: "https://s.shopee.com.br/2qUU9u4ZWf",
+    emoji: "🧥",
+    categoria: "Casacos e Corta-vento"
+  },
+  {
+    nome: "Conjunto de Frio Brasil Masculino Dry Fit Esportivo — Casaco e Calça Jogger, Kit Inverno Seleção",
+    preco: "R$59,99 - R$64,99",
+    link: "https://s.shopee.com.br/2BEnMgkhuY",
+    emoji: "🧥",
+    categoria: "Casacos e Corta-vento"
+  },
+  {
+    nome: "Moletom Masculino Com Capuz Forrado De Sherpa — Jaqueta de Lã de Inverno, Casaco Zíper, Outono Casual",
+    preco: "R$76,50 - R$91,50",
+    link: "https://s.shopee.com.br/9057VFy9a4",
+    emoji: "🧥",
+    categoria: "Casacos e Corta-vento"
+  },
+  {
+    nome: "Moletom Canguru Dragão Chinês Com Capuz e Bolso — Casaco Flanelado Unissex, Algodão",
+    preco: "R$42,90 - R$49,89",
+    link: "https://s.shopee.com.br/1qbwy6C6l7",
+    emoji: "🧥",
+    categoria: "Casacos e Corta-vento"
+  },
 ];
