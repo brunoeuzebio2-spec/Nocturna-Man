@@ -132,4 +132,104 @@ const PRODUTOS = [
     emoji: "🧥",
     categoria: "Casacos e Corta-vento"
   },
+
+  // ---- adicionados depois (leva 3) ----
+  {
+    nome: "Kit de 24 Meia Cano Alto 100% Algodão Soquete Cano Curto — Masculina, Feminina, Unissex, Direto da Fábrica",
+    preco: "R$30,55 - R$39,46",
+    link: "https://s.shopee.com.br/9057WOw4sJ",
+    emoji: "🧦",
+    categoria: "Meias"
+  },
+  {
+    nome: "Daily T-shirt Insider",
+    preco: "R$59,00 - R$139,00",
+    link: "https://s.shopee.com.br/40gRZSHe9D",
+    emoji: "👕",
+    categoria: "Camisetas"
+  },
+  {
+    nome: "Camiseta Máscara Aranha Herói Filme 100% Algodão Penteado — Estampa Grande, Streetwear Unissex Oversize",
+    preco: "R$25,80 - R$34,80",
+    link: "https://s.shopee.com.br/1gIWnLZUVa",
+    emoji: "👕",
+    categoria: "Camisetas"
+  },
+  {
+    nome: "Camiseta Cristã Salmos 91 100% Algodão — Streetwear Gospel, Camisa Deus Premium, Unissex Oversize",
+    preco: "R$25,80 - R$32,80",
+    link: "https://s.shopee.com.br/3LQkmQ2LNI",
+    emoji: "👕",
+    categoria: "Camisetas"
+  },
+  {
+    nome: "Camisa Camiseta Oversized Streetwear Anime — One Piece, Naruto, Hokage, Dragon, Kimetsu no Yaiba",
+    preco: "R$36,96",
+    link: "https://s.shopee.com.br/qjPoHDkXv",
+    emoji: "👕",
+    categoria: "Camisetas"
+  },
+  {
+    nome: "Camiseta Oversized Spartano Musculação — Grande, Algodão, Treino Academia",
+    preco: "R$39,95",
+    link: "https://s.shopee.com.br/9KhxwFPm2T",
+    emoji: "👕",
+    categoria: "Camisetas"
+  },
+  {
+    nome: "Calça Masculina Jogger Com Elastano — Academia Esportiva, Fitness Slim, Dry Fit, Leve",
+    preco: "R$41,89 - R$50,00",
+    link: "https://s.shopee.com.br/8fSHA36n14",
+    emoji: "👖",
+    categoria: "Calças"
+  },
+  {
+    nome: "Calça Jogger Masculina Sarja Jeans 4 Bolsos — Punho Elástico, Cintura Ajustável, Streetwear Premium",
+    preco: "R$48,00 - R$118,00",
+    link: "https://s.shopee.com.br/3B7Kbws3dM",
+    emoji: "👖",
+    categoria: "Calças"
+  },
+  {
+    nome: "Calça Baggy Masculina Jeans Boca Larga Balão — Estilo Mandrake, Y2K Streetwear",
+    preco: "R$42,22 - R$159,99",
+    link: "https://s.shopee.com.br/AKaV98DJCP",
+    emoji: "👖",
+    categoria: "Calças"
+  },
+  {
+    nome: "Calça Jogger Masculina Linha Premium Sarja — Com Punho, Cintura Ajustável, 4 Bolsos",
+    preco: "R$48,00 - R$58,00",
+    link: "https://s.shopee.com.br/112q1zQIeg",
+    emoji: "👖",
+    categoria: "Calças"
+  },
+  {
+    nome: "Kit 3 Calça Masculina Dry Fit Esportiva — Treino, Com Zíper no Bolso",
+    preco: "R$59,98",
+    link: "https://s.shopee.com.br/1LfgQby5iu",
+    emoji: "👖",
+    categoria: "Calças"
+  },
+  {
+    nome: "Bermuda Sarja Masculina Premium Slim Fit Com Elastano — Confortável, Casual, Preta/Bege/Gelo/Marrom",
+    preco: "R$39,00 - R$137,90",
+    link: "https://s.shopee.com.br/AKaV9fqmAS",
+    emoji: "🩳",
+    categoria: "Bermudas"
+  },
+  {
+    nome: "Camiseta Religiosa 'Ainda Que Eu Ande Pelo Vale' — Camisa Cristã 100% Algodão Unissex",
+    preco: "R$37,99 - R$49,99",
+    link: "https://s.shopee.com.br/1BMGEqGOw8",
+    emoji: "👕",
+    categoria: "Camisetas"
+  },
+  {
+    nome: "Corta Vento Masculino Forrado — Academia, Treino, Impermeável",
+    preco: "R$38,22",
+    link: "https://s.shopee.com.br/9057ZHGdcB",
+    emoji: "🧥",
+    categoria: "Casacos e Corta-vento"
+  },
 ];
