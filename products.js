@@ -29,8 +29,7 @@ const PRODUTOS = [
     preco: "R$67,00 - R$78,00",
     link: "https://s.shopee.com.br/5VVEPCgg9C",
     emoji: "👖",
-    categoria: "Calças",
-    destaque: true
+    categoria: "Calças"
   },
   {
     nome: "Moletom Gola Redonda Unissex Blusa de Frio — Careca, Casaco Flanelado Sem Estampa, Algodão",
@@ -231,5 +230,43 @@ const PRODUTOS = [
     link: "https://s.shopee.com.br/9057ZHGdcB",
     emoji: "🧥",
     categoria: "Casacos e Corta-vento"
+  },
+
+  // ---- adicionados depois (leva 4) ----
+  {
+    nome: "Blusa de Frio Moletom Canguru Unissex Streetwear — Jujutsu Kaisen, Gojo Satoru, Anime",
+    preco: "R$59,13 - R$79,90",
+    link: "https://s.shopee.com.br/5VVKunaS93",
+    emoji: "🧥",
+    categoria: "Casacos e Corta-vento",
+    destaque: true
+  },
+  {
+    nome: "Camiseta T-shirt Unissex Streetwear Chicago 93 Racing",
+    preco: "R$29,95",
+    link: "https://s.shopee.com.br/AUu0s0UHbx",
+    emoji: "👕",
+    categoria: "Camisetas"
+  },
+  {
+    nome: "Short Compressão 2 em 1 Masculino CR7 Cristiano Ronaldo — Para Academia, Corrida, Moda",
+    preco: "R$39,95",
+    link: "https://s.shopee.com.br/6fhIIyVGwk",
+    emoji: "🩳",
+    categoria: "Shorts e Compressão"
+  },
+  {
+    nome: "Kit 5 Camisetas Poliéster DryFit Masculina Lisa — Academia, Corrida, Casual, Esportes",
+    preco: "R$59,99 - R$63,99",
+    link: "https://s.shopee.com.br/7Kwz6CsrF8",
+    emoji: "👕",
+    categoria: "Camisetas"
+  },
+  {
+    nome: "Camisa Manga Longa Masculina Blusa Social Estilosa Solta Casual Waffle — Bata Com Colarinho, Meio Botão, QUALY",
+    preco: "R$69,42 - R$79,99",
+    link: "https://s.shopee.com.br/7Kwz6DNnFb",
+    emoji: "👔",
+    categoria: "Camisas"
   },
 ];
