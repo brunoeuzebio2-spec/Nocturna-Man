@@ -238,8 +238,7 @@ const PRODUTOS = [
     preco: "R$59,13 - R$79,90",
     link: "https://s.shopee.com.br/5VVKunaS93",
     emoji: "🧥",
-    categoria: "Casacos e Corta-vento",
-    destaque: true
+    categoria: "Casacos e Corta-vento"
   },
   {
     nome: "Camiseta T-shirt Unissex Streetwear Chicago 93 Racing",
@@ -268,5 +267,78 @@ const PRODUTOS = [
     link: "https://s.shopee.com.br/7Kwz6DNnFb",
     emoji: "👔",
     categoria: "Camisas"
+  },
+
+  // ---- adicionados depois (leva 5) ----
+  {
+    nome: "E6S Fones de Ouvido Sem Fio TWS Bluetooth Com Microfone — Estéreo, Cancelamento de Ruído, LED Display Digital, Preto",
+    preco: "R$16,26 - R$18,51",
+    link: "https://s.shopee.com.br/40gi2l9HQF",
+    emoji: "🎧",
+    categoria: "Eletrônicos"
+  },
+  {
+    nome: "Relógio Esportivo Digital Masculino À Prova D'água — Pulseira de Silicone, Leve, Ao Ar Livre, Presente",
+    preco: "R$9,83 - R$15,73",
+    link: "https://s.shopee.com.br/8AWH0gmcPW",
+    emoji: "⌚",
+    categoria: "Acessórios"
+  },
+  {
+    nome: "Slide Masculino Tipo Nuvem Preto Ortopédico — Confortável, Secagem Rápida",
+    preco: "R$21,90 - R$28,90",
+    link: "https://s.shopee.com.br/2LYU3yvMNA",
+    emoji: "🩴",
+    categoria: "Calçados"
+  },
+  {
+    nome: "T-shirt Masculina Looney Tunes Modelo Novo — Camiseta Versátil, Tendência, Premium Crt Unissex",
+    preco: "R$23,89",
+    link: "https://s.shopee.com.br/W6psdAfM2",
+    emoji: "👕",
+    categoria: "Camisetas"
+  },
+  {
+    nome: "Kit Whey Protein Fusion + BCAA + Creatina + Shaker — Espartanos",
+    preco: "R$79,99",
+    link: "https://s.shopee.com.br/4B08FOMhYv",
+    emoji: "💪",
+    categoria: "Suplementos"
+  },
+  {
+    nome: "Chinelo Asuna Super Confortável Nuvem Masculino — Antiderrapante, Nova Moda 2025",
+    preco: "R$34,90 - R$42,90",
+    link: "https://s.shopee.com.br/9zxvCGjFvk",
+    emoji: "🩴",
+    categoria: "Calçados"
+  },
+  {
+    nome: "Kit 2 Blusa Moletom Masculino New York Gola Redonda — Algodão Unissex, Casaco",
+    preco: "R$79,89 - R$89,90",
+    link: "https://s.shopee.com.br/1gInGzitz0",
+    emoji: "🧥",
+    categoria: "Casacos e Corta-vento"
+  },
+  {
+    nome: "Jaqueta Térmica Masculina Malha Com Elastano",
+    preco: "R$69,90",
+    link: "https://s.shopee.com.br/6AlCdHnR0J",
+    emoji: "🧥",
+    categoria: "Casacos e Corta-vento"
+  },
+  {
+    nome: "Camiseta Self Control 1980 Streetwear Style — Arte Registrada, Drop 1",
+    preco: "R$25,90 - R$39,90",
+    link: "https://s.shopee.com.br/4VcyeGAZOD",
+    emoji: "👕",
+    categoria: "Camisetas"
+  },
+  {
+    nome: "Camiseta Masculina Social Manga Curta Xadrez Malha — T-shirt Elegante, Estilo Modal, Verão",
+    preco: "R$69,80",
+    link: "https://s.shopee.com.br/2VruGbHmPK",
+    emoji: "👔",
+    categoria: "Camisas",
+    destaque: true
   },
 ];
